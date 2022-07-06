@@ -20,9 +20,18 @@
 
 ![image](https://drive.google.com/file/d/17xfSgFun8GIAXzSMAyy1ASLYdgkL9QMt/view?usp=sharing)
 
-## How to use !?
+
+## Installation / How to use !?
 
 ---
+
+- Download Node.JS from [click here](/https://nodejs.org/en/download/).
+
+- Fork / Download package from this repository.
+
+- Open command prompt/powershell/terminal at place you have downloaded this package.
+
+- Run command **npm link** .
 
 - Use **ogf** command
   - ogf help
